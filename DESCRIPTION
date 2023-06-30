@@ -1,0 +1,10 @@
+Package: NutriScore
+Type: Package
+Title: Impact du changement d'algorithme NutriScore
+Version: 0.1.3
+Authors@R: person("Jonathan", "Thévenot", email = "jonathan.thevenot@adria.fr", role = c("aut", "cre"))
+Description: Impact du changement d'algorithme NutriScore.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
