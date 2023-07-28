@@ -4,3 +4,11 @@
   <!-- badges: end -->
   
 # NutriScore
+
+## ⏬ Installation
+Install the NutriScore package via GitHub repository.
+
+``` r
+# install.package("devtools") #In case you have not installed it.
+devtools::install_github("adria-repo/NutriScore")
+```
